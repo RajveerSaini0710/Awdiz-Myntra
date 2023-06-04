@@ -188,7 +188,7 @@ display: none;
 }
 
 .product{
-    height: 380px;
+    height: 375px;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -204,4 +204,9 @@ display: none;
     height: 80%;
     margin-top: 10%;
    
+}
+
+#anchorphoto{
+    text-decoration: none;
+    color: black;
 }
